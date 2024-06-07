@@ -1,0 +1,10 @@
+0 - NO_ERROR
+1 - Nome inexistente
+2 - Telefone inexistente
+3 - Telefone 2 inexistente
+4 - Nome invalido
+5 - Telefone invalido
+6 - Telefone 2 invalido
+7 - Telefones invalidos
+8 - Quantidade de dados em arquivo invalida
+9 - Contato tem apenas 1 telefone
